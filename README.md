@@ -1,7 +1,3 @@
-Here's the updated README with the link added under the "About the Zoomcamp" section:
-
----
-
 # 🌟 Machine Learning Zoomcamp by DataTalks 🚀
 
 Welcome to **Machine Learning Zoomcamp by DataTalks**, a comprehensive course designed for developers looking to dive deep into the world of **Machine Learning**. If you're eager to understand ML fundamentals and learn to use the most important frameworks and tools, you’re in the right place!
